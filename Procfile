@@ -1,1 +1,1 @@
-web: bin/start-pgbouncer-stunnel gunicorn nagme.wsgi --log-file -
+web: bin/start-pgbouncer gunicorn nagme.wsgi --log-file -
