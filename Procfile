@@ -1,0 +1,1 @@
+web: gunicorn nagme.wsgi --log-file -
